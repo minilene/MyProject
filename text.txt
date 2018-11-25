@@ -8,24 +8,6 @@ while count < 3 and guess.lower() != name:    # .lower allows things like Guilhe
     count = count + 1
 
 
-
-dgjzdfgherpgh
-
-
-f
-
-fgfgihjtjbfd
-
-
-
-ghtshtgbf
-db
-
-
-
-
-
-
 if guess.lower() != name:
     print("You are wrong!") # this message isn't printed in the third chance, so we print it now
     print("You ran out of chances.")
