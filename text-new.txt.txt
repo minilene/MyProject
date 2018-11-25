@@ -1,0 +1,28 @@
+C++ Desenvolvimento Orientado a Objeto
+35h
+Resumo do curso
+As linguagens de programação estão em constante evolução. Novas opções são criadas a partir de lições aprendidas com linguagens antigas ou na tentativa de introduzir novos recursos e facilidades às linguagens existentes.
+
+A C++ é reconhecida como uma das linguagens mais poderosas e populares que existem. Construída sobre a base da programação C, suporta conceitos de desenvolvimento de software, como classes e objetos. 
+
+Orientado a objeto e com base no programa Microsoft Visual C++, nosso curso busca proporcionar que o aluno adquira conhecimentos, competências e habilidades para o desenvolvimento de aplicações nessa linguagem considerada uma ferramenta essencial para engenheiros de software e programadores. 
+
+A C++ apresenta grande portabilidade e permite fácil integração com outras linguagens e bibliotecas, o que a torna ideal para o desenvolvimento de softwares de alta qualidade. 
+
+Ao todo, nosso conteúdo está dividido em sete módulos que foram elaborados para facilitar a assimilação de conceitos que explicam o que são os sistemas orientados a objetos e passam por temas como os recursos do C++, funções especiais e operadores, entre outros. 
+
+Estrutura
+Módulo 1 – Introdução
+Módulo 2 – Recursos do CPlus
+Módulo 3 – Funções Especiais e Operadores
+Módulo 4 – Bibliotecas e Fluxos de E/S
+Módulo 5 – Funções de E/S
+Módulo 6 – Herança e o Polimorfismo
+Módulo 7 – Aplicativo
+Pré-requisitos
+Não há pré-requisitos para a realização deste curso.
+
+Idade mínima indicada: 16 anos.
+
+
+new lines were added
